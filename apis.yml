@@ -1,7 +1,12 @@
 aid: peter-kiewit-sons
-url: https://raw.githubusercontent.com/api-evangelist/peter-kiewit-sons/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/peter-kiewit-sons/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.peter-kiewit-sons.com
+description: >-
+  Peter Kiewit Sons' (Kiewit Corporation) is one of North America's largest and most
+  respected construction and engineering organizations, working on projects in transportation,
+  water, oil, gas, power, and building markets.
