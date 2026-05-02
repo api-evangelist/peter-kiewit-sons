@@ -1,5 +1,5 @@
 # Peter Kiewit Sons' (peter-kiewit-sons)
-Peter Kiewit Sons' is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for Peter Kiewit Sons'.
+Peter Kiewit Sons' (Kiewit Corporation) is one of North America's largest and most respected construction and engineering organizations, working on projects in transportation, water, oil, gas, power, and building markets. This repository tracks any publicly available APIs, SDKs, and developer resources for Kiewit.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/peter-kiewit-sons/refs/heads/main/apis.yml)
 
@@ -11,12 +11,12 @@ Peter Kiewit Sons' is a Fortune 500 company. This repository captures the APIs, 
 
 ## Tags:
 
- - Fortune 500
+ - Fortune 500, Construction, Engineering
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -24,7 +24,10 @@ No public APIs have been documented yet. Contributions welcome.
 
 ## Common Properties
 
-- [Website](https://www.peter-kiewit-sons.com)
+- [Website](https://www.kiewit.com)
+- [Careers](https://www.kiewit.com/careers/)
+- [About](https://www.kiewit.com/about/)
+- [Privacy Policy](https://www.kiewit.com/privacy/)
 
 ## Maintainers
 
