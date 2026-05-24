@@ -29,6 +29,8 @@ common:
     url: https://www.kiewit.com/about/
   - type: PrivacyPolicy
     url: https://www.kiewit.com/privacy/
+  - type: LLMsTxt
+    url: https://www.kiewit.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
