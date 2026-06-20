@@ -7,7 +7,7 @@ description: >-
   repository tracks any publicly available APIs, SDKs, and developer resources
   for Kiewit.
 kind: contract
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Fortune 500
   - Construction
