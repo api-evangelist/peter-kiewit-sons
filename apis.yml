@@ -29,7 +29,7 @@ common:
     url: https://www.kiewit.com/about/
   - type: PrivacyPolicy
     url: https://www.kiewit.com/privacy/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.kiewit.com/llms.txt
 maintainers:
   - FN: Kin Lane
