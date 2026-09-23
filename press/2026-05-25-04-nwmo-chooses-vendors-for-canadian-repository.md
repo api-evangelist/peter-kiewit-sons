@@ -1,7 +1,9 @@
 ---
 title: NWMO chooses vendors for Canadian repository
 url: https://www.ans.org/news/2025-05-15/article-7027/nwmo-chooses-vendors-for-canadian-repository/
-date: '2026-05-25'
+published: '2025-05-15'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Peter Kiewit Sons''" press release artificial intelligence'
 position: 4
 source: serpapi-google

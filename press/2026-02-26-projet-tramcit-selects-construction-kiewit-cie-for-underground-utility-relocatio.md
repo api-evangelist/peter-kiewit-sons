@@ -2,7 +2,9 @@
 title: Projet TramCité Selects Construction Kiewit Cie for Underground Utility Relocation
   Work
 url: https://www.kiewit.com/newsroom/tramcite-selects-kiewit-construction-co-for-underground-utility-relocation-work/
-date: '2026-02-26'
+published: ''
+date_basis: harvested
+harvested: '2026-02-26'
 author: Shawn Vaughan
 feed_url: http://www.kiewit.com/newsroom/feed
 ---

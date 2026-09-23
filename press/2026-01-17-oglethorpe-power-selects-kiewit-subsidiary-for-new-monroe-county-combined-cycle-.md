@@ -2,7 +2,9 @@
 title: Oglethorpe Power Selects Kiewit Subsidiary for New Monroe County Combined-Cycle
   Plant
 url: https://www.kiewit.com/newsroom/oglethorpe-power-selects-kiewit-subsidiary-the-industrial-company-tic-as-epc-partner-for-new-monroe-county-combined-cycle-plant/
-date: '2026-01-17'
+published: ''
+date_basis: harvested
+harvested: '2026-01-17'
 author: Shawn Vaughan
 feed_url: http://www.kiewit.com/newsroom/feed
 ---

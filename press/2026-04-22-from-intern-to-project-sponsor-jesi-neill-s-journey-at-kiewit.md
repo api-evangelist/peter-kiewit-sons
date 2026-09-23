@@ -1,7 +1,9 @@
 ---
 title: 'From Intern to Project Sponsor: Jesi Neill’s Journey at Kiewit'
 url: https://www.kiewit.com/newsroom/from-intern-to-project-sponsor-jesi-neills-journey-at-kiewit/
-date: '2026-04-22'
+published: ''
+date_basis: harvested
+harvested: '2026-04-22'
 author: Lauren Henry
 feed_url: http://www.kiewit.com/newsroom/feed
 ---

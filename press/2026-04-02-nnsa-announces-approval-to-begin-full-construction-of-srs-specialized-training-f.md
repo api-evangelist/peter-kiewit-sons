@@ -2,7 +2,9 @@
 title: NNSA Announces Approval to Begin Full Construction of SRS Specialized Training
   Facility for Plutonium Pit Production
 url: https://www.kiewit.com/newsroom/nnsa-announces-approval-to-begin-full-construction-of-srs-specialized-training-facility-for-plutonium-pit-production/
-date: '2026-04-02'
+published: ''
+date_basis: harvested
+harvested: '2026-04-02'
 author: Shawn Vaughan
 feed_url: http://www.kiewit.com/newsroom/feed
 ---

@@ -1,7 +1,9 @@
 ---
 title: Salmon Hatch in Upper Klamath
 url: https://www.kiewit.com/newsroom/salmon-hatch-in-upper-klamath/
-date: '2026-04-15'
+published: ''
+date_basis: harvested
+harvested: '2026-04-15'
 author: Victoria Ostarly
 feed_url: http://www.kiewit.com/newsroom/feed
 ---

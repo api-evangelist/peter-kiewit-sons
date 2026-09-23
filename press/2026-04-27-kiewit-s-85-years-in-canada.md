@@ -1,7 +1,9 @@
 ---
 title: Kiewit’s 85 Years in Canada
 url: https://www.kiewit.com/newsroom/kiewits-85-years-in-canada/
-date: '2026-04-27'
+published: ''
+date_basis: harvested
+harvested: '2026-04-27'
 author: Alexandra Gandy
 feed_url: http://www.kiewit.com/newsroom/feed
 ---

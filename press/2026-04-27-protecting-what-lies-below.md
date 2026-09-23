@@ -1,7 +1,9 @@
 ---
 title: Protecting What Lies Below
 url: https://www.kiewit.com/newsroom/protecting-what-lies-below/
-date: '2026-04-27'
+published: ''
+date_basis: harvested
+harvested: '2026-04-27'
 author: Alexandra Gandy
 feed_url: http://www.kiewit.com/newsroom/feed
 ---

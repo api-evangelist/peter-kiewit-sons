@@ -1,7 +1,9 @@
 ---
 title: Peter Kiewit Sons ULC is designing and constructing ...
 url: https://www.linkedin.com/posts/kiewit_peter-kiewit-sons-ulc-is-designing-and-constructing-activity-6504092423055032320-XJjZ
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Peter Kiewit Sons''" press release artificial intelligence'
 position: 5
 source: serpapi-google

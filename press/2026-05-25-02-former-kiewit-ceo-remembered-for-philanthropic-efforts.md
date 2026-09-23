@@ -1,7 +1,9 @@
 ---
 title: Former Kiewit CEO remembered for philanthropic efforts
 url: https://canada.constructconnect.com/joc/news/usa/2021/09/former-kiewit-ceo-remembered-for-philanthropic-efforts
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Peter Kiewit Sons''" press release artificial intelligence'
 position: 2
 source: serpapi-google

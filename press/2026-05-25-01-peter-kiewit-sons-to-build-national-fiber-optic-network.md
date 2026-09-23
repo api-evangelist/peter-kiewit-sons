@@ -1,7 +1,9 @@
 ---
 title: Peter Kiewit Sons to Build National Fiber Optic Network
 url: https://www.nytimes.com/1998/01/21/business/peter-kiewit-sons-to-build-national-fiber-optic-network.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Peter Kiewit Sons''" press release artificial intelligence'
 position: 1
 source: serpapi-google
