@@ -37,10 +37,14 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/peter-kiewit-sons/refs/heads/main/apis.yml
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.kiewit.com/newsroom/
+    type: Blog
+  - url: https://www.kiewit.com/newsroom/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/peter-kiewit-sons-domain-security.yml
   - type: LinkedIn
